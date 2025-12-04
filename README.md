@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🟡 Gold Price Telegram Bot
 A Python bot that fetches *real-time gold prices* from a website and automatically sends updates to a *Telegram channel*.
 
@@ -21,3 +22,6 @@ A Python bot that fetches *real-time gold prices* from a website and automatical
 git clone https://github.com/YOUR_USERNAME/gold-price-bot
 cd gold-price-bot
 pip install -r requirements.txt
+=======
+# gold-price-telegrambot
+>>>>>>> 111171aaa2cb8a45e48c0649f0acf44b6ee48770
